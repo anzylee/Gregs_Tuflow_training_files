@@ -1,0 +1,36 @@
+<NotepadPlus>
+    <UserLang name="TUFLOW" ext="tcf tgc tbc tmf ecf tef trd tlf toc trfc">
+        <Settings>
+            <Global caseIgnored="no" />
+            <TreatAsSymbol comment="no" commentLine="yes" />
+            <Prefix words1="no" words2="no" words3="no" words4="no" />
+        </Settings>
+        <KeywordLists>
+            <Keywords name="Delimiters">000000</Keywords>
+            <Keywords name="Folder+"></Keywords>
+            <Keywords name="Folder-"></Keywords>
+            <Keywords name="Operators"></Keywords>
+            <Keywords name="Comment">1 2 0!</Keywords>
+            <Keywords name="Words1">==</Keywords>
+            <Keywords name="Words2">(N,M) (s) (X,Y) 1D 2D 2D2D &#x000D;&#x000A;Above ADD Additional Adjust Adjustment Air Alignment ALL All Allow and AND Angle Angles Apply Approach Area as at &#x000D;&#x000A;Auto Automatic &#x000D;&#x000A;Balance BC Bed Bend/Drop BG Bndy Boundaries Boundary Bridge Build&#x000D;&#x000A;C Calculation Calibration Cell CENTRED Ch Change Channel Check Checks Chezy Corrector Clearance Closed CnM CODE Code Coefficient &#x000D;&#x000A;Coefficient Coefficients Coincident Commands Connection Connections Continuing Control Controls Conveyance CORNERS Create Creep Critical Culvert &#x000D;&#x000A;Courant Cross-Sections CSV Culvert Cut Cutoff CV CWF Cyclone &#x000D;&#x000A;Dangling DAT Data Database Date Debris Default Defaults Define Density Depth Depth/Ripple Depths Device Direction &#x000D;&#x000A;Display Distance Distribute Does Domain Double Drive Drying During Dynamic &#x000D;&#x000A;EB Else ELSE Empty end End END ENGELHUND Equation Estry ESTRY Event Events Excel Exit Ext External Extrapolate &#x000D;&#x000A;Factor FC File Files Find First FLC Flow Flows Folder Format Formula Formulation Free FRIC Froude &#x000D;&#x000A;Gauges General Geometry GIS GLO Global GPU Grid GRID GULLY &#x000D;&#x000A;H/D Hazard Head Heads Height HQ HIGH Hurricane HX &#x000D;&#x000A;IDs if If IF in Initial Inlet Input Inside Instability Interface Interpolate Interpolation Interval Inverts &#x000D;&#x000A;ISIS Iterations IWL &#x000D;&#x000A;Junctions&#x000D;&#x000A;K&#x000D;&#x000A;Land Latitude Layered Length Level Limit Line Lines Link Links Location Log Loss Losses LP &#x000D;&#x000A;M M11 Manhole MANNING Map Mass Mat MAT MAX Material Materials Maximum Maximums Meshparts METHOD Method MI MID MIN &#x000D;&#x000A;MIN(ZU,ZV) Minimum Minimums Model Momentum Multiplier &#x000D;&#x000A;N NA NAR Name Negative Network No Nodes Not Null Number &#x000D;&#x000A;Oblique Obvert of Off Offset One Online ONLY Operating Operation Order Orientation Origin Output Overfall &#x000D;&#x000A;Pause Period Pit PITS Platform PO Point Points Polyline Precision Profiles Projection Pump&#x000D;&#x000A;R Radiation Rainfall Rate RIDGE Read Recalculate Release Region Relative RES Resistance Restart RF RowCol Route&#x000D;&#x000A;S SA Same Save scenario Scenario Scenarios Screen/Log Search Selection Series Set Shallow Shape SHP Side Sides Size SMOOTHED SMS Snap Solver Source Spillway Start &#x000D;&#x000A;Sluice STEPPED Stop Storage Store Stresses String Structure Supercritical Sweep SX &#x000D;&#x000A;t Table Taper Text TGF THICK TIME Time Times Timestep TIN to Tolerance Trigger Trim TUFLOW Type Types &#x000D;&#x000A;UK Units Unused Use Values Variable Vel Velocity Verbose Vertical Vertices VG Viscosity &#x000D;&#x000A;Warmup Water Wave wday Weir Weirs Wet/Dry Wetting When Width Wind Wind/Wave WLL WLLp WR WrF Write &#x000D;&#x000A;X1D XF XMDF XP XS XZ &#x000D;&#x000A;Z ZC Zero ZHC Zone Zones Zpt Zpts ZPTS ZUV ZUVC ZUVH</Keywords>
+            <Keywords name="Words3"></Keywords>
+            <Keywords name="Words4"></Keywords>
+        </KeywordLists>
+        <Styles>
+            <WordsStyle name="DEFAULT" styleID="11" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="FOLDEROPEN" styleID="12" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="FOLDERCLOSE" styleID="13" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="KEYWORD1" styleID="5" fgColor="FF0000" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="KEYWORD2" styleID="6" fgColor="0000FF" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="KEYWORD3" styleID="7" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="KEYWORD4" styleID="8" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="COMMENT" styleID="1" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="COMMENT LINE" styleID="2" fgColor="008000" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="NUMBER" styleID="4" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="OPERATOR" styleID="10" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="DELIMINER1" styleID="14" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="DELIMINER2" styleID="15" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="DELIMINER3" styleID="16" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" />
+        </Styles>
+    </UserLang>
+</NotepadPlus>
